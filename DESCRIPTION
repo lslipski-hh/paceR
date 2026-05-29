@@ -1,0 +1,14 @@
+Package: paceR
+Title: Analytics Functions for the Habitat Data Team
+Version: 0.0.0.9000
+Authors@R: 
+    person("Luke", 
+           "Slipski", 
+           , 
+           "lslipski@habitathealth.com", 
+           role = c("aut", "cre"))
+Description: This package standardizes analytical processing across Habitat Health Data sources.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
