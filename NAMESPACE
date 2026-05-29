@@ -2,5 +2,6 @@
 
 export("%>%")
 export(databricks_connect)
+export(get_census)
 export(run_sql_string)
 importFrom(magrittr,"%>%")
